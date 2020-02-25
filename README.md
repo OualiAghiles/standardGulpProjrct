@@ -1,8 +1,6 @@
-# Carousel / Slider  responsive
+# Basic Gulpfile
 
-> This plugin made with 
->    * Vanilla JavaScript
->    * Css Framwork Bulma (not important)
+>    * Vanilla JavaScript ES6
 >    * Sass Preprocessor
 >    * Pug template engine
 >    * Gulp as task runner
